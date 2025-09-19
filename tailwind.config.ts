@@ -61,6 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				archive: {
+					brown: '#8B4513',
+					parchment: '#2C1810',
+					beige: '#F5F5DC',
+					ink: '#1A1A1A',
+					seal: '#8B0000'
 				}
 			},
 			borderRadius: {
